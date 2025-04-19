@@ -15,10 +15,10 @@
 ## 📦 **Installation**
 ```bash
 # Clone the repo
- git clone https://github.com/patel-vansh1607/search-bar-w-filtering
+ git clone https://github.com/patel-vansh1607/random-dice-roller
 
 # Navigate into the project
- cd search-bar-w-filtering
+ cd random-dice-roller
 
 # Install dependencies
  npm install
