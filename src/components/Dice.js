@@ -11,8 +11,9 @@ const RandomDice = () => {
 
     return(
         <div>
-            <div>
-
+            <div style={styles.container}>
+            <div style={styles.dice}>{diceFaces[diceNumber - 1]}</div>
+            <button onClick={rollDice} style={styles.button}>Roll Dice</button>
             </div>
         </div>
     )
