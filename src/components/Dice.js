@@ -1,4 +1,5 @@
 import "../styles/Dice.css"
+import React, { useState } from 'react';
 
 const RandomDice = () => {
     const [diceNumber, setDiceNumber] = useState(1);
@@ -18,5 +19,20 @@ const RandomDice = () => {
         </div>
     )
 }
-
+const styles = {
+    container: {
+      textAlign: 'center',
+      marginTop: '50px',
+      fontFamily: 'sans-serif',
+    },
+    dice: {
+      fontSize: '100px',
+      marginBottom: '20px',
+    },
+    button: {
+      padding: '10px 20px',
+      fontSize: '18px',
+      cursor: 'pointer',
+    }
+  };
 export default RandomDice
