@@ -1,7 +1,7 @@
-[![Project Banner](./src//images/readme-project-banner-01.png)](https://search-bar-w-filtering.vercel.app/)
+[![Project Banner](./src//images/readme-project-banner-01.png)](https://random-dice-roller-six.vercel.app/)
 ---
-# 🚀 **Search Bar with Filtering**  
-> _A website where it displays a search bar where you can search for any fruits_
+# 🚀 **Random Dice Roller**  
+> _A website where it displays a dice where a user can spin it randomly_
 ---
 
 ## 🔥 **Features**
